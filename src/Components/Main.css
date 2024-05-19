@@ -1,0 +1,33 @@
+.addtask{
+position: absolute;
+    margin-top:20px;
+    padding-left: 50px;
+    margin-left: 20px;
+
+}
+
+.addmember{
+    
+margin-left: 180px;
+
+}
+
+.add{
+    position: absolute;
+    color: red;
+left: 175px;
+padding-top: 10px;
+
+
+}
+
+
+    .addicon{
+
+        position: absolute;
+        color: red;
+    left: 10px;
+    padding-top: 25px;
+
+
+    }
